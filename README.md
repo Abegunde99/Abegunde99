@@ -7,10 +7,10 @@ I'm a Software Engineer, Forex Trader, and a Civil Engineer. I'm passionate abou
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I studied Backend Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, Nodejs, TypeScript, Python and so on.
+- 💡 Fun fact: I love coding
+- 🌱 I’m currently building using JavaScript, Reactjs, Nodejs, TypeScript, Python and so on.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer or Backend Engineer (Intern or Junior level).
+- 💼 Job interests: Backend development(Nodejs) (Junior or mid level).
 - 📫 You can contact me by emailing mailtopreciousolanrewaju1998@gmail.com.
 
 ---
