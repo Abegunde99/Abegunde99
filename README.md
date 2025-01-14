@@ -1,28 +1,40 @@
-# Hi there! 👋 I'm Precious Abegunde
+# Hello there; welcome! 👋🏾
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olanrewaju-abegunde-6bab05114)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/preciousolanre1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtopreciousolanrewaju1998@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-OlanrewajuAbegunde-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olanrewaju-abegunde-6bab05114)](https://www.linkedin.com/in/precious-abegunde) [![Twitter Badge](https://img.shields.io/badge/-@preciousolanre1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/preciousolanre1)](https://twitter.com/preciousolanre1)
 
-## Backend Engineer | Node.js | TypeScript | AWS
+I'm a **Backend Software Engineer**, and Civil Engineer passionate about creating scalable and maintainable server-side applications. I specialize in **Node.js**, **TypeScript**, and **Python**, and I have a proven track record of developing high-performance backend systems. 
 
-I'm a Backend Engineer with a passion for building scalable, high-performance systems. With 3 years of experience, I specialize in creating robust backend solutions that power real-world applications.
+Here’s a quick summary about me:
 
-### 🚀 Notable Projects
+- 😊 **Pronouns:** He/him
+- 💡 **Fun fact:** I love solving problems with code and exploring innovative technologies.
+- 🌱 **Currently working with:** JavaScript, React.js, Node.js, TypeScript, Python, and more.
+- 😊 **Looking for:** Open source contributions, hackathons, and mid-level/senior backend roles.
+- 💼 **Job interests:** Backend Development (Node.js).
+- 📫 **Contact me:** [mailtopreciousolanrewaju1998@gmail.com](mailto:mailtopreciousolanrewaju1998@gmail.com).
 
-- **PointXY Logistics Platform** (Production)
-  - Built scalable backend services for a logistics platform with 50k+ users
-  - Tech: Node.js, NestJS, MongoDB, AWS
-  - Improved database query performance by 25%
-  - Available on App Store & Play Store
+---
 
-- **Habari Dating App** (Production)
-  - Developed real-time chat and matching algorithms
-  - Tech: Node.js, Express, WebSocket, Redis
-  - Handles 10k+ daily active users
-  - Available on App Store & Play Store
+## 🚀 Notable Projects
+Here are some of the projects I’ve worked on:
 
-### 💻 Tech Stack
+### **1. PointXY Logistics Application** (Production) 
+An **e-commerce and logistics platform** available on both Play Store and App Store.
+- Built scalable backend services for a logistics platform with 50k+ users
+- Tech: Node.js, NestJS, MongoDB, AWS
+- Improved database query performance by 25%
+- Available on App Store & Play Store
+
+### **2. Habari Dating App** (Production)  
+A **dating application** designed to connect people seamlessly, available on Play Store and App Store.
+- Developed real-time chat and matching algorithms
+- Tech: Node.js, Express, WebSocket, Redis
+- Handles 10k+ daily active users
+- Available on App Store & Play Store
+
+---
+
+## 💻 Tech Stack
 
 - **Languages:** JavaScript, TypeScript, Python
 - **Frameworks:** NestJS, Express.js, Adonis.js
@@ -30,21 +42,16 @@ I'm a Backend Engineer with a passion for building scalable, high-performance sy
 - **Cloud:** AWS (S3, EC2, ECS)
 - **Tools:** Docker, Kubernetes, Git, CI/CD
 
-### 🌟 Expertise
+## 🌟 Expertise
 
 - Building scalable microservices
 - Real-time communication systems
 - High-performance APIs
 - Database optimization
 - System architecture design
+---
 
-### 📈 Recent Achievements
-
-- Reduced API response times by 15%
-- Implemented caching strategies reducing database load by 20%
-- Maintained 99.9% uptime for critical services
-
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Advanced System Design Patterns
 - GraphQL
@@ -52,4 +59,16 @@ I'm a Backend Engineer with a passion for building scalable, high-performance sy
 
 ---
 
-💼 Open to exciting backend engineering opportunities!
+## 📜 Certifications
+- Certified Backend Developer (Details available upon request).
+
+---
+
+## 🌐 Socials
+- **LinkedIn:** [Olanrewaju Abegunde](https://www.linkedin.com/in/precious-abegunde)
+- **Twitter:** [@preciousolanre1](https://twitter.com/preciousolanre1)
+- **GitHub:** [Abegunde99](https://github.com/Abegunde99)
+
+---
+
+I’m passionate about building innovative solutions and collaborating on exciting projects. Feel free to explore my repositories and connect with me!
